@@ -14,7 +14,7 @@
 ## 蓝灯官方论坛
 
 🔴 新手看过来：**[蓝灯精华帖](https://github.com/getlantern/forum/issues?q=is%3Aopen+is%3Aissue+label%3A%E7%B2%BE%E5%8D%8E)**。
-**使用遇到问题，请阅读[蓝灯无法使用的解决办法](https://github.com/getlantern/forum/issues/1902)。** 
+**使用遇到问题，请阅读[蓝灯常见问题解决办法](https://github.com/getlantern/forum/issues/1902)。** 
 🔴
 
 [论坛讨论页面请点这里进入](https://github.com/getlantern/forum/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)，或者点击左上方的Issues进入。
